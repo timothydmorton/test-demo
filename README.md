@@ -4,7 +4,7 @@ This is just a test.
 
 I am practicing using git here.
 
-Here is another line.
+Here is another line.  I am on my laptop.
 
 Here is a bulleted list:
 
